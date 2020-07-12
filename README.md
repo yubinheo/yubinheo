@@ -1,16 +1,40 @@
-### Hi there 👋
+### Yubin Heo --
 
-<!--
-**yubinheo/yubinheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! Welcome to my Github profile!
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- Team SemiColon Admin
+- Team Equals Sudo
+- School Club "NPM" Sudo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :triangular_ruler: My Stack
+- html (★★★★☆)
+- Javascript (★★★☆☆)
+
+- PHP (★★★★★)
+- Node.js (★★★★☆)
+- Go (★★☆☆☆)
+
+- C/C++ (★★★★★)
+- C# (★★★☆☆)
+- Python (★★★★☆)
+
+- MySQL (★★★☆☆)
+
+- IIS (★★★★☆)
+- Apache (★★★☆☆)
+
+- Windows (★★★★★)
+- Linux (★★★☆☆)
+
+### 🌱 I’m currently learning
+- Node.JS
+- Docker
+- Deno
+- React
+
+### 📫 How to reach me
+- Facebook: https://www.facebook.com/heoyubin25/
+- Portfolio : https://n.hyb.kr
+- Blog : https://blog.hyb.kr
+- Email: sudo@hyb.kr
