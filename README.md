@@ -10,20 +10,15 @@
 ### :triangular_ruler: My Stack
 - html (★★★★☆)
 - Javascript (★★★☆☆)
-
 - PHP (★★★★★)
 - Node.js (★★★★☆)
 - Go (★★☆☆☆)
-
 - C/C++ (★★★★★)
 - C# (★★★☆☆)
 - Python (★★★★☆)
-
 - MySQL (★★★☆☆)
-
 - IIS (★★★★☆)
 - Apache (★★★☆☆)
-
 - Windows (★★★★★)
 - Linux (★★★☆☆)
 
