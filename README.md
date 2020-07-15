@@ -25,6 +25,6 @@ Hi, i am a Back-End developer of students living in Korea.
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github.com/yubinheo/SnakeGame" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YubinHeo&repo=SnakeGame" />
 </a>
 
