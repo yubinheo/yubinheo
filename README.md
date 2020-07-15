@@ -20,5 +20,5 @@ Hi, i am a Back-End developer of students living in Korea.
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png"></code>
 
 
-[![Yubin Heo's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Yubin Heo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/yubinheo)
+[![Yubin Heo's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Yubin_Heo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/yubinheo)
 
