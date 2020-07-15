@@ -1,35 +1,28 @@
-### Yubin Heo --
+### Hi there, I'm [Yubin Heo!](https://github.com/yubinheo) 👋
 
-👋 Hi! Welcome to my Github profile!
+<br />
+<br />
 
-### 🔭 I’m currently working on
-- Team SemiColon Admin
-- Team Equals Sudo
-- School Club "NPM" Sudo
+Hi, i am a Back-End developer of students living in Korea.
 
-### :triangular_ruler: My Stack
-- html (★★★★☆)
-- Javascript (★★★☆☆)
-- PHP (★★★★★)
-- Node.js (★★★★☆)
-- Go (★★☆☆☆)
-- C/C++ (★★★★★)
-- C# (★★★☆☆)
-- Python (★★★★☆)
-- MySQL (★★★☆☆)
-- IIS (★★★★☆)
-- Apache (★★★☆☆)
-- Windows (★★★★★)
-- Linux (★★★☆☆)
+- 🔭 I’m currently working on my project!
+- 🌱 I’m currently learning Node.js & Docker.
+- 👯 I’m looking to collaborate on BigDataChat.
+- 💬 Ask me about anything [here](https://open.kakao.com/me/gjdbqld2019).
 
-### 🌱 I’m currently learning
-- Node.JS
-- Docker
-- Deno
-- React
+**Languages and Tools:**  
 
-### 📫 How to reach me
-- Facebook: https://www.facebook.com/heoyubin25/
-- Portfolio : https://n.hyb.kr
-- Blog : https://blog.hyb.kr
-- Email: sudo@hyb.kr
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+
+[![Yubin Heo's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=YubinHeo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/yubinheo)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
