@@ -7,7 +7,6 @@ Hi, i am a Back-End developer of students living in Korea.
 
 - 🔭 I’m currently working on my project!
 - 🌱 I’m currently learning Node.js & Docker.
-- 👯 I’m looking to collaborate on BigDataChat.
 - 💬 Ask me about anything [here](https://open.kakao.com/me/gjdbqld2019).
 
 **Languages and Tools:**  
